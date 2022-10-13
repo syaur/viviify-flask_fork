@@ -1,5 +1,5 @@
 Flask
 gevent
 python-decouple
-python-pixabay
+pixabay
 spacy
